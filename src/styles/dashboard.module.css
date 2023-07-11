@@ -1,0 +1,303 @@
+.dashboardContainer {
+  display: flex;
+}
+
+.dashboardManageCourses {
+  display: grid;
+  background-color: #f2eae1;
+  height: 737px;
+  width: 270px;
+}
+.dashboardManage {
+ 
+  text-align: center;
+  color: #000000;
+  font-family: "Montserrat", sans-serif;
+ 
+}
+.dashboardManage img{
+  margin-right: 10px;
+  margin-top: 5px;
+}
+
+.dashboardProfile{
+  
+}
+.dashboardProfile img{
+   margin-left: 44px;
+    
+}
+
+
+.dashboardButton {
+  display: grid;
+  margin-top: 50px;
+}
+
+.dashboardButton1 {
+  background-color: #f2eae1;
+  font-family: "Montserrat", sans-serif;
+  border: none;
+  cursor: pointer;
+  margin-right: 25px;
+  margin-left: 25px;
+  border-radius: 5px;
+}
+.dashboardButton1:hover {
+  background-color: #feaf00;
+}
+
+
+.dashboardButton2 {
+  margin-top: 10px;
+  background-color: #f2eae1;
+  font-family: "Montserrat", sans-serif;
+  border: none;
+  cursor: pointer;
+  margin-right: 25px;
+  margin-left: 25px;
+  border-radius: 5px;
+}
+
+.dashboardButton2:hover {
+  background-color: #feaf00;
+}
+.dashboardButton3 {
+  margin-top: 10px;
+  background-color: #f2eae1;
+  font-family: "Montserrat", sans-serif;
+  border: none;
+  cursor: pointer;
+  margin-right: 25px;
+  margin-left: 25px;
+  border-radius: 5px;
+}
+.dashboardButton3:hover {
+  background-color: #feaf00;
+}
+.dashboardButton4 {
+  margin-top: 10px;
+  background-color: #f2eae1;
+  font-family: "Montserrat", sans-serif;
+  border: none;
+  cursor: pointer;
+  margin-right: 25px;
+  margin-left: 25px;
+  border-radius: 5px;
+}
+.dashboardButton4:hover {
+  background-color: #feaf00;
+}
+.dashboardButton5 {
+  margin-top: 10px;
+  background-color: #f2eae1;
+  font-family: "Montserrat", sans-serif;
+  border: none;
+  cursor: pointer;
+  margin-right: 25px;
+  margin-left: 25px;
+  border-radius: 5px;
+}
+.dashboardButton5:hover {
+  background-color: #feaf00;
+}
+.dashboardButton6 {
+  margin-top: 10px;
+  background-color: #f2eae1;
+  font-family: "Montserrat", sans-serif;
+  border: none;
+  cursor: pointer;
+  margin-right: 25px;
+  margin-left: 25px;
+  border-radius: 5px;
+}
+.dashboardButton6:hover {
+  background-color: #feaf00;
+}
+.dashboardButton7 {
+  margin-top: 70px;
+  background-color: #f2eae1;
+  font-family: "Montserrat", sans-serif;
+  border: none;
+  cursor: pointer;
+  margin-right: 25px;
+  margin-left: 25px;
+  border-radius: 5px;
+}
+.dashboardButton7:hover {
+  background-color: #feaf00;
+}
+
+.dashboardButton1 img{
+  margin-right: 10px;
+}
+.dashboardButton2 img{
+  margin-right: 10px;
+}
+.dashboardButton3 img{
+  margin-right: 10px;
+}
+.dashboardButton4 img{
+  margin-right: 10px;
+}
+.dashboardButton5 img{
+  margin-right: 10px;
+}
+.dashboardButton6 img{
+  margin-right: 10px;
+}
+.dashboardButton7 img{
+  margin-left: 10px;
+}
+.dashboardHeader{
+ 
+  display: flex;
+  margin-left: 440px;
+ position: absolute; 
+ color: #000000;
+}
+.dashboardToggleBar{
+  
+
+}
+.dashboardWarning{
+ 
+}
+.dashboardBox {
+  display: flex;
+  width: 100%;
+  grid-gap: 20px;
+  margin-top: 60px;
+}
+
+.dashboardStudents {
+  display: flex;
+  width: 25%;
+  height: 157px;
+  margin-top: 30px;
+  background-color: #f0f9ff;
+  margin-left: 10px;
+}
+.dashboardStudents p {
+  margin-top: 63px;
+  margin-left: 5px;
+  font-family: "Montserrat", sans-serif;
+  opacity: 0.7;
+  font-size: 14px;
+}
+.dashboardStudents0{
+ 
+}
+.dashboardStudents1{
+  position: relative;  
+  height: 100%;
+  margin-left: 150px;
+
+}
+.dashboardStudents1 img{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-bottom: 20px;
+
+
+}
+
+.dashboardCourse {
+  display: flex;
+  width: 25%;
+  height: 157px;
+  margin-top: 30px;
+  background-color: #fef6fb;
+}
+
+.dashboardCourse p {
+  margin-top: 63px;
+  margin-left: 5px;
+  font-family: "Montserrat", sans-serif;
+  opacity: 0.7;
+  font-size: 14px;
+}
+
+.dashboardCourse img {
+ 
+}
+.dashboardCourse1 {
+  position: relative;  
+  height: 100%;
+  margin-left: 180px;
+ 
+
+}
+.dashboardCourse1 img{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-bottom: 20px;
+}
+
+.dashboardPayments {
+  display: flex;
+  width: 25%;
+  height: 157px;
+  margin-top: 30px;
+  background-color: #fefbec;
+}
+
+.dashboardPayments p {
+  margin-top: 63px;
+  margin-left: 5px;
+  font-family: "Montserrat", sans-serif;
+  opacity: 0.7;
+  font-size: 14px;
+}
+
+.dashboardPayments img{
+
+}
+.dashboardPayments1 {
+  position: relative;  
+  height: 100%;
+  margin-left: 160px;
+}
+
+.dashboardPayments1 img{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-bottom: 20px;
+}
+
+.dashboardUsers {
+  display: flex;
+  width: 25%;
+  height: 157px;
+  margin-top: 30px;
+  background: linear-gradient(110.42deg, #feaf00 18.27%, #f8d442 91.84%);
+  margin-right: 10px;
+}
+
+.dashboardUsers p {
+  margin-top: 63px;
+  margin-left: 5px;
+  font-family: "Montserrat", sans-serif;
+  opacity: 0.7;
+  font-size: 14px;
+}
+
+.dashboardUsers img{
+
+}
+.dashboardUsers1{
+  position: relative;  
+  height: 100%;
+  margin-left: 190px;
+
+}
+
+.dashboardUsers1 img{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,241 @@
+.dashboardContainer {
+    display: flex;
+  }
+  
+  .dashboardManageCourses {
+    display: grid;
+    background-color: #f2eae1;
+    height: 737px;
+    width: 230px;
+  }
+  .dashboardManage {
+   
+    text-align: center;
+    color: #000000;
+    font-family: "Montserrat", sans-serif;
+   
+  }
+
+  .dashboardManage img{
+    margin-right: 10px;
+    margin-top: 5px;
+  }
+  
+  .dashboardProfile{
+    
+  }
+  .dashboardProfile img{
+     margin-left: 44px;
+      
+  }
+  
+  
+  .dashboardButton {
+    display: grid;
+    margin-top: 50px;
+  }
+  
+  .dashboardButton1 {
+    background-color: #f2eae1;
+    font-family: "Montserrat", sans-serif;
+    border: none;
+    cursor: pointer;
+    margin-right: 25px;
+    margin-left: 25px;
+    border-radius: 5px;
+  }
+  .dashboardButton1:hover {
+    background-color: #feaf00;
+  }
+  
+  .dashboardButton2 {
+    margin-top: 10px;
+    background-color: #f2eae1;
+    font-family: "Montserrat", sans-serif;
+    border: none;
+    cursor: pointer;
+    margin-right: 25px;
+    margin-left: 25px;
+    border-radius: 5px;
+  }
+  
+  .dashboardButton2:hover {
+    background-color: #feaf00;
+  }
+  .dashboardButton3 {
+    margin-top: 10px;
+    background-color: #f2eae1;
+    font-family: "Montserrat", sans-serif;
+    border: none;
+    cursor: pointer;
+    margin-right: 25px;
+    margin-left: 25px;
+    border-radius: 5px;
+  }
+  .dashboardButton3:hover {
+    background-color: #feaf00;
+  }
+  .dashboardButton4 {
+    margin-top: 10px;
+    background-color: #f2eae1;
+    font-family: "Montserrat", sans-serif;
+    border: none;
+    cursor: pointer;
+    margin-right: 25px;
+    margin-left: 25px;
+    border-radius: 5px;
+  }
+  .dashboardButton4:hover {
+    background-color: #feaf00;
+  }
+  .dashboardButton5 {
+    margin-top: 10px;
+    background-color: #f2eae1;
+    font-family: "Montserrat", sans-serif;
+    border: none;
+    cursor: pointer;
+    margin-right: 25px;
+    margin-left: 25px;
+    border-radius: 5px;
+  }
+  .dashboardButton5:hover {
+    background-color: #feaf00;
+  }
+  .dashboardButton6 {
+    margin-top: 10px;
+    background-color: #f2eae1;
+    font-family: "Montserrat", sans-serif;
+    border: none;
+    cursor: pointer;
+    margin-right: 25px;
+    margin-left: 25px;
+    border-radius: 5px;
+  }
+  .dashboardButton6:hover {
+    background-color: #feaf00;
+  }
+  .dashboardButton7 {
+    margin-top: 70px;
+    background-color: #f2eae1;
+    font-family: "Montserrat", sans-serif;
+    border: none;
+    cursor: pointer;
+    margin-right: 25px;
+    margin-left: 25px;
+    border-radius: 5px;
+  }
+  .dashboardButton7:hover {
+    background-color: #feaf00;
+  }
+  .dashboardHeader{
+  display: flex;
+
+
+  }
+
+  .dashboardHeader1{
+    
+    }
+    .dashboardHeader2{
+     
+      }
+  .studentsAdd{
+   background-color:#FEAF00 ; 
+   width: 199px;
+   height: 44px;
+   margin-left: 40px;
+  }
+  
+  .dashboardButton1 img{
+    margin-right: 10px;
+  }
+  .dashboardButton2 img{
+    margin-right: 10px;
+  }
+  .dashboardButton3 img{
+    margin-right: 10px;
+  }
+  .dashboardButton4 img{
+    margin-right: 10px;
+  }
+  .dashboardButton5 img{
+    margin-right: 10px;
+  }
+  .dashboardButton6 img{
+    margin-right: 10px;
+  }
+  .dashboardButton7 img{
+    margin-left: 10px;
+  }
+  .studentsList1{
+    display: flex;
+    margin-top: 30px;
+  }
+
+  .studentsList1 input{
+   width: 212px;
+   height: 37px;
+   margin-left: 250px;
+   border-radius: 8px;
+   
+  }
+
+  .studentsAdd{
+      justify-items: flex-end;
+      color: white;
+      border-radius: 4px;
+      
+  }
+  .studentsList {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    
+  }
+  
+  .studentsList ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
+  }
+  
+  .studentsList li {
+   
+    margin-left: 75px;
+  }
+
+
+  .students1{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    grid-gap: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  
+  .students2{
+    
+  }
+  
+  .students3{
+    
+  }
+  .students4{
+   
+  }
+  .students5{
+   
+  }
+  .students6{
+   
+  }
+
+  .studentsUpdate{
+  
+  }
+
+  .studentsDelete{
+
+  }

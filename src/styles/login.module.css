@@ -1,0 +1,99 @@
+
+
+.loginContainer {
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(71.17deg, #FEAF00 19.35%, #F8D442 90.12%);
+
+  }
+
+  
+  .loginContainer form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: white;
+    border-radius: 15px;
+    width: 400px;
+  }
+  
+  .loginContainer input[type="submit"] {
+    background-color: rgb(254, 175, 0);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+   
+  }
+  .loginContainer h1{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+  .loginContainer h5{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+ 
+  }
+
+  .loginContainerParagraf{
+    
+    text-align: center;
+    opacity: 0.4;
+    font-size: 14px;
+    font-weight: 400;
+
+  }
+
+  .loginContainerEmail{
+  margin-left: 15px;
+  
+   color: #6C6C6C;
+  
+  
+  }
+
+  .loginContainerUserName{
+    width: 365px;
+    border-radius: 5px;
+    opacity: 0.3;
+    height: 30px;
+    margin-left: 15px;
+  
+    
+  }
+  .loginContainerPassword{
+    margin-left: 15px;
+  
+    color: #6C6C6C;
+  }
+
+  .loginContainerPassword2{
+    width: 365px;
+    border-radius: 5px;
+    opacity: 0.3;
+    height: 30px;
+    margin-left: 15px;
+    
+    
+  }
+
+  .loginContainerParagraf2{
+    text-align: center;
+    opacity: 0.7;
+   
+  }
+
+  
+  .loginContainerAhref{
+    color: rgb(254, 175, 0);
+    
+  }
